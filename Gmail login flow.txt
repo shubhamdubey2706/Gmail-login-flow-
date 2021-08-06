@@ -1,0 +1,9 @@
+Steps
+
+1. Create one box to place input field of Email/Phone over there.
+2. Create link of forgot password if we forgot and click on next if we already registered else create and and account of gmail if we not regeistered before.
+3. After inputing of gmail we have to put password then click on next if forgot so click on forgot passowrd and then reset it.
+4. if forgot so there should we an option to get OTP  over gmail or phone number.
+5. After getting OTP we need to create new password then click on don't save. 
+6. If we want so we can apply two factor authentication for secure our account.
+7. Then click on login into gmail and enjoy gmail services.
